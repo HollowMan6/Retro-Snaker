@@ -16,7 +16,7 @@
 
 [源代码](贪吃蛇游戏.c)
 
-[Win 程序](贪吃蛇游戏.exe)
+[Win 程序](Excutables/贪吃蛇游戏.exe)
 
 # Retro-Snaker
 
@@ -24,4 +24,4 @@ Programmed by C
 
 [Source Code](贪吃蛇游戏.c)
 
-[Win Program](贪吃蛇游戏.exe)
+[Win Program](Excutables/贪吃蛇游戏.exe)
