@@ -2,6 +2,7 @@
 
 [![last-commit](https://img.shields.io/github/last-commit/HollowMan6/Retro-Snaker)](../../graphs/commit-activity)
 [![release-date](https://img.shields.io/github/release-date/HollowMan6/Retro-Snaker)](../../releases)
+![C/C++ CI](https://github.com/HollowMan6/Retro-Snaker/workflows/C/C++%20CI/badge.svg)
 
 [![Followers](https://img.shields.io/github/followers/HollowMan6?style=social)](https://github.com/HollowMan6?tab=followers)
 [![watchers](https://img.shields.io/github/watchers/HollowMan6/Retro-Snaker?style=social)](../../watchers)
@@ -14,14 +15,14 @@
 
 使用C编写
 
-[源代码](贪吃蛇游戏.c)
+[源代码](Retro-Snaker.c)
 
-[Win 程序](Excutables/贪吃蛇游戏.exe)
+[Win 程序](Excutables/Retro-Snaker.exe)
 
 # Retro-Snaker
 
 Programmed by C
 
-[Source Code](贪吃蛇游戏.c)
+[Source Code](Retro-Snaker.c)
 
-[Win Program](Excutables/贪吃蛇游戏.exe)
+[Win Program](Excutables/Retro-Snaker.exe)
